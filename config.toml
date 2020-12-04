@@ -1,4 +1,4 @@
-baseurl = "https://matthewchapman.co.uk"
+baseurl = "/"
 title = "Matt Chapman"
 theme = "hugo-coder"
 languagecode = "en"
