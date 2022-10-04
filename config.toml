@@ -44,7 +44,7 @@ pygmentscodefencesguesssyntax = true
     name = "Mail"
     icon = "fa fa-envelope"
     weight = 2
-    url = "mailto:matt@matthewchapman.co.uk"
+    url = "mailto:matt@mattchapman.dev"
 
 [[params.social]]
     name = "LinkedIn"
